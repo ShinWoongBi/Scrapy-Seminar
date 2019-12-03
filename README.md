@@ -1,4 +1,6 @@
 # Scrapy-Seminar
+<img src="/Users/woongbishin/Woongbi_File/Scrapy-Seminar/scrapy_image.png" alt="scrapy" style="zoom:30%;" />
+
 Scrapy 라이브러리를 이용한 Crawling 배워보기 - https://festa.io/events/717/
 
 Python 라이브러리 'Scrapy'를 이용해 네이버 뉴스 크롤링까지 할 수 있는 세미나 입니다.
