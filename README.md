@@ -1,5 +1,5 @@
 # Scrapy-Seminar
-<img src="/Users/woongbishin/Woongbi_File/Scrapy-Seminar/scrapy_image.png" alt="scrapy" style="zoom:30%;" />
+<img src="./scrapy_image.png" alt="scrapy" style="zoom:30%;" />
 
 Scrapy 라이브러리를 이용한 Crawling 배워보기 - https://festa.io/events/717/
 
